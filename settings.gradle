@@ -1,3 +1,4 @@
 rootProject.name = 'java8-example'
 include 'behavior-parameterization'
+include 'streams'
 
